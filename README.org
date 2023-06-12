@@ -1,0 +1,10 @@
+* daemon
+
+daemonize lisp process
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/snmsts/daemon.git   |
+| commit  | d5652f4  |
+| systems | daemon |
+|---------+-------------------------------------------|
+
